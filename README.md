@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KHakesh07
-- 👀 I’m interested in coding , creating , sstory writing.......etc.
+- 👀 I’m interested in coding , creating , story writing.......etc.
 - 🌱 I’m currently learning about the data everywhere.
 - 💞️ I’m looking for paid internships, part-time jobs .... etc.
 - 📫 How to reach me ?
