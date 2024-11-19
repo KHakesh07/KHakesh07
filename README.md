@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KHakesh07
 - 👀 I’m interested in coding , creating , story writing.......etc.
-- 🌱 I’m currently learning about the data everywhere.
-- 💞️ I’m looking for paid internships, full-time jobs .... etc.
 - 📫 How to reach me ?
 - you can reach me though gmail:= hakeshkadapa@gmail.com
   //_\\ design your own way 
