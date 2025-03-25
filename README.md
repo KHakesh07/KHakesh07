@@ -17,15 +17,11 @@
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS Logo" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/000000/external-data-analytics-robotics-flaticons-lineal-color-flat-icons.png" height="30" alt="data analysis logo" />
   <img width="12" />
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/000000/external-big-data-data-analytics-flaticons-lineal-color-flat-icons.png" height="30" alt="data engineering logo" />
 
@@ -46,7 +42,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
